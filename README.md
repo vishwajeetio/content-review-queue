@@ -150,7 +150,8 @@ The frontend listens for these events and refreshes queue state.
 
 ## Walkthrough Video
 
-url: 
+part 1: https://www.loom.com/share/09e4afa8561b4ad9be1e6dbcb0b5c7cb
+part 2: https://www.loom.com/share/c2ab0087497144efaaeea97890910c18
 
 ## AI / LLM Usage
 AI assistance was used for the initial dashboard UI structure and styling in [frontend/src/App.jsx](frontend/src/App.jsx) and [frontend/src/styles.css](frontend/src/styles.css). I reviewed, adapted, and tested the final implementation. It was also used to generate the initial [README.md](README.md) file, which I then reviewed and edited for accuracy and clarity.
